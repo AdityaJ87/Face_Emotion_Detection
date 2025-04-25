@@ -54,7 +54,7 @@ This project is a real-time facial emotion detection system using Convolutional 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/face-emotion-detection.git
-cd face-emotion-detection
+git clone https://github.com/AdityaJ87/Face_Emotion_Detection.git
+cd Face_Emotion_Detection
 pip install -r requirements.txt
 "# Face_Emotion_Detection" 
